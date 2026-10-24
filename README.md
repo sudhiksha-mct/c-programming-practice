@@ -26,6 +26,12 @@ I will update this repository as I practise and learn new concepts.
 - File: `02_factorial.c`
 - Purpose: Calculate the factorial of a non-negative integer using a loop.
 
+  
+### 3. Prime Number Checker
+- File: `03_prime_number.c`
+- Purpose: Check whether a given integer is a prime number using C.
+
+
 ## Technologies Used
 - C programming
 - GitHub for code storage and version control
